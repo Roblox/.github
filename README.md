@@ -1,0 +1,2 @@
+# .github
+GitHub Meta-Repo
