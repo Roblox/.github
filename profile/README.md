@@ -8,7 +8,7 @@ This is the Roblox Cloud Organization, where we at Roblox contribute to the open
 
 We welcome new contributors to our open source projects. The world is ours for the making, help our communities build it.
 
-* Explore [Luau](https://github.com/Roblox/luau), [Roact](https://github.com/Roblox/roact), or our other [open source projects](https://github.com/orgs/Roblox/repositories).
+* Explore [Luau](https://github.com/luau-lang), [React Lua](https://github.com/Roblox/react-lua), or our other [open source projects](https://github.com/orgs/Roblox/repositories).
 * Work together and provide feedback [on our dev forum](https://devforum.roblox.com/).
 * [Join us!](https://careers.roblox.com/)
 
